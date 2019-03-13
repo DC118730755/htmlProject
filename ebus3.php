@@ -147,8 +147,9 @@ span.price {
           
         </div>
         
-          <input type="submit" value="Home" class="btn" formaction="index.html">
-      </form>
+         <form>
+            <input type="submit" class="btn" value="Home" formaction= "index.html" >
+        </form>
     </div>
   </div>
   
